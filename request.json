@@ -1,0 +1,13 @@
+{
+    "method": "POST",
+    "url": "/api/login",
+    "headers": {
+        "Content-Type": "application/json",
+        "User-Agent": "Python Client",
+        "Accept": "application/json"
+    },
+    "body": {
+        "username": "testuser",
+        "password": "example123"
+    }
+}
